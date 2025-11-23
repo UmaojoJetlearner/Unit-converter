@@ -29,3 +29,15 @@ def temp(c):
 
 weather=temp(23)
 print(weather)
+
+def weight(k):
+    return k*2.20462
+
+kilo=weight(23)
+print(kilo)
+
+def meter(l):
+    return l*3.28084
+
+length=meter(12)
+print(length)
